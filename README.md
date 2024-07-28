@@ -44,7 +44,7 @@ Before you begin, ensure you have the following installed:
 
  - spring.application.name=Daily-Expenses-Sharing-Application
  
- - server.port=9982
+ - server.port=8080
     - This property sets the port number on which the Spring Boot application will run.By default, Spring Boot applications run on port 8080, but this can be 
       changed as needed.
  
