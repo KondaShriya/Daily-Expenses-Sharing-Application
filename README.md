@@ -1,18 +1,4 @@
-# 🏦 Daily Expenses Sharing Application
-
-## Table of Contents
-- [📘 Introduction](#Introduction)
-- [✨ Features](#features)
-- [💻 Technologies Used](#technologies-used)
-- [🚀 Getting Started](#getting-started)
-  - [📋 Prerequisites](#prerequisites)
-  - [🔧 Installation](#installation)
-  - [⚙️ Configuration](#configuration)
-  - [▶️ Running the Application](#running-the-application)
-- [🔗 API Endpoints](#api-endpoints)
-  - [👥 User Endpoints](#user-endpoints)
-  - [💰 Expenses Endpoints](#expenses-endpoints)
-- [🗄️ Database Structure](#database-structure)
+#  Daily Expenses Sharing Application
 
 ## 📘 Introduction
 The Daily Expenses Sharing Application allows users to add expenses and split them among participants using three different methods: equal splits, exact amounts, and percentages. The application also provides features for user management and generates downloadable balance sheets.
@@ -46,8 +32,8 @@ Before you begin, ensure you have the following installed:
 ### 🔧 Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/syamreddy99/Daily-Expenses-Sharing-Application
-   cd Daily-Expense-Sharing-Application
+   git clone https://github.com/KondaShriya/Daily-Expenses-Sharing-Application
+   cd Daily-Expenses-Sharing-Application
 
 # ⚙️configuration 
   ### Database Configuration:
@@ -100,7 +86,7 @@ Before you begin, ensure you have the following installed:
 
 # 🔗API Endpoints
  ### Base URL
- - http://localhost:9982
+ - http://localhost:8080
 ## 👥User Endpoints
 
 ### Create User
@@ -111,8 +97,8 @@ Before you begin, ensure you have the following installed:
  ### Request Body:
   
    - {
-   - "email": "john.doe@example.com",
-   - "name": "John Doe",
+   - "email": "kondashriya8@gmail.com",
+   - "name": "Shriya Konda",
    - "mobile": "1234567890"
    - }
    
